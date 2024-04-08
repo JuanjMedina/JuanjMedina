@@ -77,7 +77,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JuanjMedina&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -89,9 +88,8 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/JuanjMedina/JuanjMedina/output/snake.svg" alt="Snake animation" />
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
+<img src="https://raw.githubusercontent.com/JuanjMedina/JuanjMedina/output/snake.svg" alt="Snake animation" />
 
 ###
 
