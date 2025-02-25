@@ -4,19 +4,19 @@
 
 ###
 
-<h1 align="center">Hola 👋 , soy Juan Medina</h1>
+<h1 align="center">Hello 👋, I'm Juan Medina</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Acerca de mi</h3>
+<h3 align="left">👩‍💻 About me</h3>
 
 ###
 
-<p align="left">Ingeniero de sistemas en en Bogotá, Colombia , especializado en el desarrollo de aplicaciones backend<br><br> 🔭 Actualmente, me desempeño en proyectos utilizando tecnologías como NestJS,Express, React, Node.js y bases de datos relacionales y no relacionales para crear soluciones robustas y escalables.<br><br>📚 Estoy enfocado en mejorar mis habilidades en diseño de arquitecturas escalables, implementación de microservicios y prácticas de desarrollo ágil.<br><br>⚡ En mi tiempo libre, disfruto explorar nuevas tecnologías y mantenerme al día con las últimas tendencias en desarrollo de software. También me apasiona el aprendizaje continuo.</p>
+<p align="left">Systems Engineer in Bogotá, Colombia, specialized in backend application development<br><br> 🔭 Currently, I'm working on projects using technologies such as NestJS, Express, React, Node.js, and relational and non-relational databases to create robust and scalable solutions.<br><br>📚 I am focused on improving my skills in scalable architecture design, microservices implementation, and agile development practices.<br><br>⚡ In my free time, I enjoy exploring new technologies and staying up-to-date with the latest trends in software development. I'm also passionate about continuous learning.</p>
 
 ###
 
-<h3 align="left">🛠 Lenguajes y herramientas</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h4 align="left">🖌️ Fronted</h4>
+<h4 align="left">🖌️ Frontend</h4>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
@@ -89,7 +89,7 @@
 
 ###
 
-<p align="left">🤝 Contactame</p>
+<p align="left">🤝 Contact me</p>
 
 ###
 
